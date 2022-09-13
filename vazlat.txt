@@ -1,0 +1,15 @@
+- mi a rust (roviden)
+- keszito, elnevezes, mozilla
+- legkedveltebb programozasi nyelv stackoverflow userek szerint
+- osszehasonlitas mas nyelvekkel
+- alapok, pl hogy minden valtozo kezdetben konstans, mi a heap es a stack
+- ownership and borrowing
+- cargo
+- miert erdemes kiprobalni?
+    - kozosseg
+    - eszkozok
+    - ekoszisztema
+    - gyors es stabil
+    - fun benne barmit csinalni
+    - tokeletes program
+- hol lehet megtanulni
